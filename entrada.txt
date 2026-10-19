@@ -1,0 +1,21 @@
+cat > entrada.txt <<'EOF'
+i - 1 - A
+i - 2 - B
+i - 3 - A
+i - 4 - G
+i - 5 - G
+i - 6 - B
+i - 7 - A
+
+e - 3 - A
+e - 4 - G
+e - 7 - A
+
+e - 2 - B
+
+i - 8 - G
+i - 9 - A
+i - 10 - B
+i - 11 - G
+i - 12 - G
+EOF
