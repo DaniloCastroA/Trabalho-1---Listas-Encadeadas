@@ -9,7 +9,6 @@
  * A estrutura interna (struct lista) e opaca: o cliente do TAD enxerga
  * apenas o ponteiro Lista* e as operacoes declaradas neste arquivo.
  *
- * EDA - INF1010 - PUC-Rio - Tarefa 1 (Listas encadeadas) - 2026.2
  */
 
 #ifndef LISTA_H
