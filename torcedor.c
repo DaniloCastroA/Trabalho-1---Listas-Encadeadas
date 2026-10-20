@@ -2,7 +2,6 @@
  * @file torcedor.c
  * @brief Implementacao do TAD auxiliar Categoria.
  *
- * EDA - INF1010 - PUC-Rio - Tarefa 1 (Listas encadeadas) - 2026.2
  */
 
 #include <ctype.h>
