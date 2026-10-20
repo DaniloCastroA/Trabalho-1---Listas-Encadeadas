@@ -6,7 +6,6 @@
  * arquivo de entrada ('A', 'B' ou 'G') e a representacao interna
  * utilizada pelo TAD Lista.
  *
- * EDA - INF1010 - PUC-Rio - Tarefa 1 (Listas encadeadas) - 2026.2
  */
 
 #ifndef TORCEDOR_H
