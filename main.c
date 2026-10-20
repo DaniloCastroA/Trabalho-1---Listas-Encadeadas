@@ -12,12 +12,6 @@
  *     i - <numero> - <categoria>    inclui um torcedor na fila
  *     e - <numero> - <categoria>    exclui (atendimento concluido)
  *
- * Uma LINHA EM BRANCO marca o fim de um bloco de operacoes: ao encontra-la,
- * o programa imprime a lista atualizada. A lista tambem e impressa ao final
- * do arquivo. Esse criterio reproduz exatamente os blocos (a), (b), (c) e
- * (d) do enunciado.
- *
- * EDA - INF1010 - PUC-Rio - Tarefa 1 (Listas encadeadas) - 2026.2
  */
 
 #include <stdio.h>
