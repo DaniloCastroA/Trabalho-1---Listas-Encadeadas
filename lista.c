@@ -3,7 +3,6 @@
  * @brief Implementacao do TAD Lista como lista simplesmente encadeada
  *        ordenada por prioridade.
  *
- * EDA - INF1010 - PUC-Rio - Tarefa 1 (Listas encadeadas) - 2026.2
  */
 
 #include <stdio.h>
